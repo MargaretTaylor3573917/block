@@ -8,6 +8,7 @@ def generate_eth_wallet():
         "private_key": account._private_key.hex()
     }
 
+
 if __name__ == "__main__":
     wallet = generate_eth_wallet()
     print("Address:", wallet["address"])
