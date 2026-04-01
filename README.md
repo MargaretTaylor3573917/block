@@ -1,5 +1,4 @@
 # block
-
 ERC20 基础代币合约
 文件名：ERC20Basic.sol
 
